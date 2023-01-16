@@ -7,7 +7,7 @@ colorama==0.4.3 ; sys_platform == 'win32'
 dnspython==2.0.0
 exrex==0.10.5
 fire==0.3.1
-future==0.18.2
+future==0.18.3
 idna==2.10
 loguru==0.5.3
 pysocks==1.7.1
