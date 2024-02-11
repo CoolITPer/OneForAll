@@ -4,7 +4,7 @@ bs4==0.0.1
 certifi==2020.6.20
 chardet==3.0.4
 colorama==0.4.3 ; sys_platform == 'win32'
-dnspython==2.0.0
+dnspython==2.6.0rc1
 exrex==0.10.5
 fire==0.3.1
 future==0.18.2
